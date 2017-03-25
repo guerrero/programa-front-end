@@ -1,0 +1,15 @@
+- Contenido
+  - Presentación de los proyectos desarrollados por las alumnas
+  - Correcciones y consejos acerca del trabajo realizado
+  - Evaluación semanal
+- Actividades
+  - Implementar las mejoras en los proyectos y apuntarlas en un documento compartido en Drive
+  - Realizar las siguiente sección de Khan Academy: [Diseño CSS](https://es.khanacademy.org/computing/computer-programming/html-css#css-layout-properties)
+  - Ver video de ["Posicionamiento web"](https://www.youtube.com/watch?v=13CbCpAnvYI)
+  - Ver ["Posicionamiento: Static" ](https://www.youtube.com/watch?v=whqnlupzpNk)
+  - Ver ["Posicionamiento: Relative"](https://www.youtube.com/watch?v=X6lG1biGJa8)
+  - Ver ["Posicionamiento: Absolute"](https://www.youtube.com/watch?v=wpuP2kCN6QE)
+  - Ver ["Posicionamiento: Float"](https://www.youtube.com/watch?v=AoAy4jCFDDw)
+  - Realizar los ejercicios de posicionamiento después de ver los videos.
+- Recursos extra
+  - Página web de ["Learn Layout"](http://es.learnlayout.com/). Para aprender sobre posicionamiento de forma gráfica e interactiva
